@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://tusharv2005.github.io/One-Piece-Wanted-Poster/" target="_blank">
-    <img width="400" src="https://tusharv2005.github.io/One-Piece-Wanted-Poster/images/wanted-poster.png" alt="One Piece Wanted Poster">
+    <img width="400" src="./public/images/wanted-poster.png" alt="One Piece Wanted Poster">
   </a>
 </p>
 
@@ -83,7 +83,7 @@ pnpm run preview
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="https://tusharv2005.github.io/One-Piece-Wanted-Poster/images/wanted-poster.png" width="300" alt="Example Poster">
+  <img src="./public/images/wanted-poster.png" width="300" alt="Example Poster">
 </div>
 
 ## 🤝 Contributing
