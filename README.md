@@ -8,7 +8,7 @@
   </a>
 </p>
 
-### Create your own One Piece wanted poster online - completely free! 🎨
+### Create your own One Piece wanted poster online - completely free! 🎨✨
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Now-orange?style=for-the-badge)](https://tusharv2005.github.io/One-Piece-Wanted-Poster/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/tusharv2005/One-Piece-Wanted-Poster)
