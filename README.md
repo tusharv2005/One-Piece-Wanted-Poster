@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://tusharv2005.github.io/One-Piece-Wanted-Poster/" target="_blank" rel="noopener noreferrer">
-    <img width="300" src="https://tusharv2005.github.io/One-Piece-Wanted-Poster/images/share-preview-full.png" alt="Sanji wanted poster">
+    <img width="300" src="https://tusharv2005.github.io/One-Piece-Wanted-Poster/images/wanted-poster.png" alt="Boa Hancock wanted poster">
   </a>
 </p>
 <br/>
