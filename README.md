@@ -83,7 +83,10 @@ pnpm run preview
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="./public/images/wanted-poster.png" width="300" alt="Example Poster">
+  <img src="./public/images/wanted-poster.png" width="300" alt="Example Poster 1">
+  <img src="./public/images/wanted-poster-1.png" width="300" alt="Example Poster 2">
+  <img src="./public/images/wanted-poster-2.png" width="300" alt="Example Poster 3">
+  <img src="./public/images/nami.png" width="300" alt="Nami Wanted Poster">
 </div>
 
 ## 🤝 Contributing
